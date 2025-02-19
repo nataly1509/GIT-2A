@@ -1,0 +1,5 @@
+este es un ejemplo de como agregar o actualizar datos de github y sincronizarlos verlos en vs-code
+para realizar esto utilizamos el comando:
+git pull origin master 
+o si trabajas en rama main: 
+git pull origin main 
